@@ -6,13 +6,13 @@ I took the opportunity to learn new features such as adding colors to the Termin
 I really enjoyed doing this project, as I was able to apply some prior knowledge and improve my own programming.
 
 # How the game Works?
-The game is in the style of Cards, each player receives 4 Pokemon cards according to the type of pokemon that he chooses.
-1 - Flying 🍃
-2 - Bug 🐛
-3 - Ghost 👻
-4 - Fire 🔥
-5 - Water 🌊
-6 - Grass 🍃
+The game is in the style of Cards, each player receives 4 Pokemon cards according to the type of pokemon that he chooses.<br/>
+1 - Flying 🍃<br/>
+2 - Bug 🐛<br/>
+3 - Ghost 👻<br/>
+4 - Fire 🔥<br/>
+5 - Water 🌊<br/>
+6 - Grass 🍃<br/>
 
 Each card has a number of points based on PokeAPI's "base_experience".
 Once we choose the type of pokemons we are going to play the game with, it really starts. The User can perform 7 actions.
