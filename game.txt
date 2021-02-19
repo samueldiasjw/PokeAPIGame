@@ -1,0 +1,12 @@
+https://pokeapi.co/api/v2/type/10
+1
+2
+3
+moltres
+261
+houndour
+66
+houndoom
+175
+entei
+261
