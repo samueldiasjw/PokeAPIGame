@@ -5,7 +5,7 @@ As the learning progressed, the project became a Maven project with some associa
 I took the opportunity to learn new features such as adding colors to the Terminal, accessing the Database and making the necessary requests.
 I really enjoyed doing this project, as I was able to apply some prior knowledge and improve my own programming.
 
-# How the game Works?
+## How the game Works?
 The game is in the style of Cards, each player receives 4 Pokemon cards according to the type of pokemon that he chooses.<br/>
 
 1 - Flying 🍃<br/>
@@ -49,7 +49,7 @@ Save everything you need about the game to resume later.
 **Ranking 🥇**<br/>
 Show a RankList with TOP players. Green marker to know where are you.
 
-# Account
+## Account
 Create an account. Log into the account and view the account as well as making the necessary changes. This part is organized with a database, thus applying Maven with the dependency "mysql-connector-java".
 
 At the and I am HAPPY to learn all this things about the world that I love ❤️.
