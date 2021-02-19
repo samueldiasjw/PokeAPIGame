@@ -39,3 +39,17 @@ Playing against the computer he randomly generates a deck every round and each t
 
 **See My Cards ♣**<br/>
 See the four cards in your hand.
+
+**Quit Game 🚪**<br/>
+Shutdown Game.
+
+**Save Game 📂**<br/>
+Save everything you need about the game to resume later.
+
+**Ranking 🥇**<br/>
+Show a RankList with TOP players. Green marker to know where are you.
+
+# Account
+Create an account. Log into the account and view the account as well as making the necessary changes. This part is organized with a database, thus applying Maven with the dependency "mysql-connector-java".
+
+At the and I am HAPPY to learn all this things about the world that I love ❤️.
