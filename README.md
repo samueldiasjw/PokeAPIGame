@@ -7,6 +7,7 @@ I really enjoyed doing this project, as I was able to apply some prior knowledge
 
 # How the game Works?
 The game is in the style of Cards, each player receives 4 Pokemon cards according to the type of pokemon that he chooses.<br/>
+
 1 - Flying 🍃<br/>
 2 - Bug 🐛<br/>
 3 - Ghost 👻<br/>
@@ -17,24 +18,24 @@ The game is in the style of Cards, each player receives 4 Pokemon cards accordin
 Each card has a number of points based on PokeAPI's "base_experience".
 Once we choose the type of pokemons we are going to play the game with, it really starts. The User can perform 7 actions.
 
-1 - Upgrade Card 🔝
-2 - Ask New Card 🃏
-3 - Go Battle ⚔
-4 - See My Cards ♣
-5 - Quit Game 🚪
-6 - Save Game 📂
-7 - Ranking 🥇
+1 - Upgrade Card 🔝<br/>
+2 - Ask New Card 🃏<br/>
+3 - Go Battle ⚔<br/>
+4 - See My Cards ♣<br/>
+5 - Quit Game 🚪<br/>
+6 - Save Game 📂<br/>
+7 - Ranking 🥇<br/>
 
 The user can only use 2x the "Upgrade Card 🔝" and 3x the "Ask New Card 🃏"
 
-**Upgrade Card 🔝**
+**Upgrade Card 🔝**<br/>
 Increase a card's score, but be careful because if you are unlucky you can decrease your card's score.
 
-**Ask New Card 🃏**
+**Ask New Card 🃏**<br/>
 Replace one of the cards. If you have one bad Card you can request another. You can get one worse or better.
 
-**Go Battle ⚔**
+**Go Battle ⚔**<br/>
 Playing against the computer he randomly generates a deck every round and each time you advance a round he gets an extra 5 points.
 
-**See My Cards ♣**
+**See My Cards ♣**<br/>
 See the four cards in your hand.
