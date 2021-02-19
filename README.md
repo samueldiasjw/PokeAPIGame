@@ -52,4 +52,4 @@ Show a RankList with TOP players. Green marker to know where are you.
 ## Account
 Create an account. Log into the account and view the account as well as making the necessary changes. This part is organized with a database, thus applying Maven with the dependency "mysql-connector-java".
 
-At the and I am HAPPY to learn all this things about the world that I love ❤️.
+At the end I am HAPPY to learn all this things about the world that I love ❤️.
